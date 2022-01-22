@@ -1,7 +1,15 @@
 # Degree
+
 - degree: I do not have a degree 
   uni: SKOOLZ
   year: Dec 7, 1077
   # awards:
   # summary:
 learning
+
+- degree: Full Stack Webdeveloper Nanodegree
+  uni: Udacity
+  year: June, 2014 &mdash; January, 2015
+  awards: Most Dedicated Student per Optional Activities Completed
+  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+
